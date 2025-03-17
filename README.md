@@ -1,6 +1,6 @@
-# 🚀 Blinkit Sales Analysis (SQL)
+#  Blinkit Sales Analysis (SQL)
 
-## 📌 Project Overview  
+##  Project Overview  
 The **Blinkit Sales Analysis** project is designed to analyze **sales performance, outlet efficiency, and product demand** using SQL. 
 This project extracts valuable insights from sales data, helping businesses **optimize inventory, identify best-selling items, and improve revenue strategies**.  
 This project focuses on **data cleaning, trend analysis, and key performance indicators (KPIs)**, making it a great demonstration of SQL skills for **real-world business applications**.
@@ -38,7 +38,7 @@ The dataset consists of multiple attributes related to **product sales and store
 
 ---
 
-## 🔧 Tools & Technologies Used  
+##  Tools & Technologies Used  
 
 - **SQL** – For querying and analyzing the dataset.  
 - **MySQL / PostgreSQL / SQL Server** – Compatible with most SQL databases.  
@@ -46,12 +46,12 @@ The dataset consists of multiple attributes related to **product sales and store
 
 ---
 
-## 🛠 SQL Queries & Analysis  
+##  SQL Queries & Analysis  
 
 The project includes various SQL queries to derive business insights.
 
 
-## 📌 Queries Covered
+##  Queries Covered
 - Extracting **total and average sales**
 - Identifying **best-performing outlets**
 - Analyzing **item-wise sales trends**
