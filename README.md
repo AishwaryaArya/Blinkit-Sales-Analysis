@@ -11,11 +11,11 @@ This project focuses on **data cleaning, trend analysis, and key performance ind
 
 ## 📊 Key Features  
 
-✅ **Data Cleaning & Preprocessing** – Handling missing values, standardizing data, and ensuring consistency.  
-✅ **Sales Analysis** – Computing total revenue, average sales, and sales trends across different time periods.  
-✅ **Category-Wise Insights** – Identifying sales performance based on product type, fat content, and outlet size.  
-✅ **Outlet Performance Evaluation** – Analyzing revenue distribution across different store locations.  
-✅ **Advanced SQL Queries** – Using GROUP BY, JOINs, aggregate functions, and subqueries for deep analysis.  
+-  **Data Cleaning & Preprocessing** – Handling missing values, standardizing data, and ensuring consistency.  
+-  **Sales Analysis** – Computing total revenue, average sales, and sales trends across different time periods.  
+-  **Category-Wise Insights** – Identifying sales performance based on product type, fat content, and outlet size.  
+-  **Outlet Performance Evaluation** – Analyzing revenue distribution across different store locations.  
+-  **Advanced SQL Queries** – Using GROUP BY, JOINs, aggregate functions, and subqueries for deep analysis.  
 
 ---
 
@@ -52,9 +52,7 @@ The dataset consists of multiple attributes related to **product sales and store
 
 The project includes various SQL queries to derive business insights.
 
----
-
-##  Queries Covered
+ #  Queries Covered
 - Extracting **total and average sales**
 - Identifying **best-performing outlets**
 - Analyzing **item-wise sales trends**
@@ -66,9 +64,9 @@ The project includes various SQL queries to derive business insights.
 ## 🎯 Insights & Outcomes
 This analysis helps in:
 
-✔ Understanding **sales trends** for different product categories  
-✔ Identifying **top-performing outlets** based on sales revenue  
-✔ Optimizing **inventory management** for better business growth  
+- Understanding **sales trends** for different product categories  
+- Identifying **top-performing outlets** based on sales revenue  
+- Optimizing **inventory management** for better business growth  
 
 
   
