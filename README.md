@@ -65,6 +65,7 @@ The project includes various SQL queries to derive business insights.
 
 ## 🎯 Insights & Outcomes
 This analysis helps in:
+
 ✔ Understanding **sales trends** for different product categories  
 ✔ Identifying **top-performing outlets** based on sales revenue  
 ✔ Optimizing **inventory management** for better business growth  
